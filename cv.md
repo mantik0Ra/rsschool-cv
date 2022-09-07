@@ -1,20 +1,21 @@
 # Kirill Prakhov
 
 ## Junior Frontend Developer
---------------------------------------------------
+
 
 ## Contacts: 
 
-* *+79603588375*
-* *kirya_prahov@mail.ru*
-* *tg: mantikora0*
--------------------------------------
+* _+79603588375_
+* _kirya_prahov@mail.ru_
+* _tg: mantikora0_
+
+
 
 ## About me: 
 ### *Currenlty im living in Russia, Balakovo. Not so long ago I studied to be a lawyer,*
 ### *but now I passed, because it's not for me. Now i trying my best in programming.*
 
-------------------------------------------------
+
 
 ## Hard Skills: 
 * **HTML**
@@ -25,11 +26,11 @@
 * **BEM**
 * **Git**
 
--------------------------------------------------
+
 ## My English:
 ### *Its not so good how it can be, but im trying. Now its around A2-B1 i think. I have no speaking practice, so my speech is bad*
 
-----------------------------------------------------
+
 
 ## Code example:
 
