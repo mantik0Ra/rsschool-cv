@@ -2,7 +2,6 @@
 
 ## Junior Frontend Developer
 
-
 ## Contacts: 
 
 * _+79603588375_
