@@ -5,14 +5,14 @@
 
 ## Contacts: 
 
-* +79603588375
-* kirya_prahov@mail.ru
-* tg: mantikora0
+* *+79603588375*
+* *kirya_prahov@mail.ru*
+* *tg: mantikora0*
 -------------------------------------
 
 ## About me: 
-Currenlty im living in Russia, Balakovo. Recenlty have been stydying at lawyer,
-but now i pass it cuz its not my way. Now i trying my best in programming.
+### *Currenlty im living in Russia, Balakovo. Not so long ago I studied to be a lawyer,*
+### *but now I passed, because it's not for me. Now i trying my best in programming.*
 
 ------------------------------------------------
 
@@ -26,10 +26,29 @@ but now i pass it cuz its not my way. Now i trying my best in programming.
 * **Git**
 
 -------------------------------------------------
+## My English:
+### *Its not so good how it can be, but im trying. Now its around A2-B1 i think. I have no speaking practice, so my speech is bad*
 
+----------------------------------------------------
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+## Code example:
 
-Образование (включая пройденные курсы и тренинги)
+```
+var uniqueInOrder = function (iterable) {
+    let arr = iterable
+    arr = typeof (iterable) === "object" ? arr.join("").split("").map(function (item) {
+        let number = parseInt(item);
+        return isNaN(number) ? item : number;
+    }) : arr.split("");
+    console.log(arr)
+    let newarr = []
+    for (let i in arr) {
+        if (arr[i] != arr[i - 1]) {
+            newarr.push(arr[i])
+        }
+    }
+    return newarr
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+}
+```
+
